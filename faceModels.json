@@ -1,7 +1,7 @@
 [
   {
     "name": "Eye Eyebrows",
-    "url": "https://github.com/Fayyaziii332/fyp/blob/master/eye_eyebrows_22.dat.bz2",
+    "url": "https://raw.githubusercontent.com/Fayyaziii332/fyp/master/eye_eyebrows_22.dat.bz2",
     "hash": "0e1d50b37562dbd92503057ae88e192e",
     "version": "1.1",
     "id": "0",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Nose Mouth",
-    "url": "https://github.com/Fayyaziii332/fyp/blob/master/nose_mouth_30.dat.bz2",
+    "url": "https://raw.githubusercontent.com/Fayyaziii332/fyp/master/nose_mouth_30.dat.bz2",
     "hash": "c8f9c46db9a789d6749f8b46a95acc50",
     "version": "1.1",
     "id": "1",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Face Contour",
-    "url": "https://github.com/Fayyaziii332/fyp/blob/master/face_contour_17.dat.bz2",
+    "url": "https://raw.githubusercontent.com/Fayyaziii332/fyp/master/face_contour_17.dat.bz2",
     "hash": "a9d37fa6546272f44e2439ec3f54e6f6",
     "version": "1.1",
     "id": "2",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Face Landmarks",
-    "url": "https://github.com/Fayyaziii332/fyp/blob/master/face_landmarks_68.dat.bz2",
+    "url": "https://raw.githubusercontent.com/Fayyaziii332/fyp/master/face_landmarks_68.dat.bz2",
     "hash": "b3d0001ef69d04cfedc66b5c941bc34d",
     "version": "1.1",
     "id": "3",
